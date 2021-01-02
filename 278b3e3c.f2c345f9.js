@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{173:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"code-lab-\u2764-\u9009","name":"codelab\u2764\u9009","count":13,"permalink":"/blog/tags/code-lab-\u2764-\u9009"}')}}]);
